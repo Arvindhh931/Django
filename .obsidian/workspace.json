@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "8022a06e0c8323f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "025e95421ca18664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ff6cc5244c03f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web servers, browsers and HTTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ee98339d89bd80e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0b9f44de97c87ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2883385284c11ff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55f883f3ddf4edee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92f4fa57b02c00fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c256f18e2628cf4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "39cda8a451e2ca6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e58a30b4e31adff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e68381ace3e2af4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web servers, browsers and HTTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63ec94a508e07ef7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web servers, browsers and HTTP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329cbaa8971d24c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4b86f82f77df848",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web servers, browsers and HTTP.md"
+              }
+            }
+          },
+          {
+            "id": "32b52f3ed8d89c68",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 706.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "07ff6cc5244c03f7",
+  "lastOpenFiles": [
+    "View.md",
+    "Structure of http.md",
+    "REST framework.md",
+    "Django ORM.md",
+    "Django file structure.md",
+    "Django Architecture.md",
+    "Django and Flask.md",
+    "complete https information.md",
+    "CDN (content delivery network).md",
+    "AJAX.md",
+    "Web servers, browsers and HTTP.md",
+    "Media/Screenshot from 2023-03-17 12-11-15.png",
+    "Media/Screenshot from 2023-03-17 12-11-09.png",
+    "Media/Screenshot from 2023-03-15 12-02-40.png",
+    "Media/1_oyOkY8El31EJKNh2CnCWKg.png",
+    "Media/Screenshot from 2023-02-20 12-57-23.png",
+    "Media/How-Cookies-Work-min-1024x819.jpg"
+  ]
+}
